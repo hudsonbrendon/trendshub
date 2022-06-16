@@ -1,2 +1,2 @@
 # trendshub
-About A twitter trends hub
+A twitter trends hub
